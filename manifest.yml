@@ -1,0 +1,8 @@
+---
+applications:
+- name: politi-quote
+  buildpack: staticfile_current
+  memory: 64M
+  host: politi-quote
+  timeout: 300
+  health-check-type: port
