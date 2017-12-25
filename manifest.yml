@@ -6,3 +6,4 @@ applications:
   host: politi-quote
   timeout: 300
   health-check-type: port
+  youtube-api-key: AIzaSyA1mfguULP0l7V7hYubRWte47cWAHVwsOs
